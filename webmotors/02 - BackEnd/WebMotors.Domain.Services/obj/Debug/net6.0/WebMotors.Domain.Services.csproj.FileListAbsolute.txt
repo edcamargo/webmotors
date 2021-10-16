@@ -15,4 +15,3 @@ C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\ref\WebMotors.Domain.Services.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.pdb
-C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.csproj.AssemblyReference.cache

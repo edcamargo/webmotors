@@ -79,8 +79,8 @@ C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.MvcA
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\staticwebassets.build.json
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\staticwebassets.development.json
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\scopedcss\bundle\webApi.styles.css
-C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.csproj.CopyComplete
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\ref\webApi.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.pdb
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.genruntimeconfig.cache
+C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.csproj.CopyComplete

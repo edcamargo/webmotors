@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using System.Configuration;
 using WebMotors.InfraStructure.Data.Context;
 using WebMotors.InfraStructure.Ioc;
 
@@ -7,6 +8,13 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddDbContext<DataContext>(opt => opt.UseInMemoryDatabase("Database"));
+/*
+builder.Services.AddDbContext<DataContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("connectionString"));
+});
+*/
+
 //builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.AddControllers();
 builder.Services.AddSwaggerGen(c =>

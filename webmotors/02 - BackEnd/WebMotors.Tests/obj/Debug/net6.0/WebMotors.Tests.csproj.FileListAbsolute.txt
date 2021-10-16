@@ -96,3 +96,4 @@ C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Tests\obj\Debug\net6.0\We
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Tests\obj\Debug\net6.0\ref\WebMotors.Tests.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Tests\obj\Debug\net6.0\WebMotors.Tests.pdb
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Tests\obj\Debug\net6.0\WebMotors.Tests.genruntimeconfig.cache
+C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Tests\obj\Debug\net6.0\WebMotors.Tests.csproj.AssemblyReference.cache

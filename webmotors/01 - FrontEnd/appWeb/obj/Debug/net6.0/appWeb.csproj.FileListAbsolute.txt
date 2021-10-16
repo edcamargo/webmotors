@@ -8,7 +8,6 @@ C:\Projetos\webmotors\webmotors\01 - FrontEnd\appWeb\bin\Debug\net6.0\appWeb.dll
 C:\Projetos\webmotors\webmotors\01 - FrontEnd\appWeb\bin\Debug\net6.0\ref\appWeb.dll
 C:\Projetos\webmotors\webmotors\01 - FrontEnd\appWeb\bin\Debug\net6.0\appWeb.pdb
 C:\Projetos\webmotors\webmotors\01 - FrontEnd\appWeb\obj\Debug\net6.0\appWeb.GlobalUsings.g.cs
-C:\Projetos\webmotors\webmotors\01 - FrontEnd\appWeb\obj\Debug\net6.0\appWeb.csproj.AssemblyReference.cache
 C:\Projetos\webmotors\webmotors\01 - FrontEnd\appWeb\obj\Debug\net6.0\appWeb.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projetos\webmotors\webmotors\01 - FrontEnd\appWeb\obj\Debug\net6.0\appWeb.AssemblyInfoInputs.cache
 C:\Projetos\webmotors\webmotors\01 - FrontEnd\appWeb\obj\Debug\net6.0\appWeb.AssemblyInfo.cs
@@ -23,3 +22,4 @@ C:\Projetos\webmotors\webmotors\01 - FrontEnd\appWeb\obj\Debug\net6.0\appWeb.dll
 C:\Projetos\webmotors\webmotors\01 - FrontEnd\appWeb\obj\Debug\net6.0\ref\appWeb.dll
 C:\Projetos\webmotors\webmotors\01 - FrontEnd\appWeb\obj\Debug\net6.0\appWeb.pdb
 C:\Projetos\webmotors\webmotors\01 - FrontEnd\appWeb\obj\Debug\net6.0\appWeb.genruntimeconfig.cache
+C:\Projetos\webmotors\webmotors\01 - FrontEnd\appWeb\obj\Debug\net6.0\appWeb.csproj.AssemblyReference.cache
