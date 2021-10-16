@@ -13,6 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\WebMotors.Domain.Core\WebMotors.Domain.Core.csproj" />
     <ProjectReference Include="..\WebMotors.Domain.Services\WebMotors.Domain.Services.csproj" />
+    <ProjectReference Include="..\WebMotors.InfraStructure.AntiCorruption\WebMotors.InfraStructure.AntiCorruption.csproj" />
     <ProjectReference Include="..\WebMotors.InfraStructure.Data\WebMotors.InfraStructure.Data.csproj" />
   </ItemGroup>
 

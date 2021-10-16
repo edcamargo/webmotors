@@ -14,6 +14,7 @@ namespace webApi.Controllers
     {
         private readonly IAnnouncementWebMotorsService _announcementWebMotorsService;
         private readonly ILogger<AnnouncementController> _logger;
+
         public AnnouncementController(IAnnouncementWebMotorsService announcementWebMotorsService, ILogger<AnnouncementController> logger)
         {
             _announcementWebMotorsService = announcementWebMotorsService;

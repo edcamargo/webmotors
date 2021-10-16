@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{B7
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BackEnd", "BackEnd", "{72CF21D0-5C8D-4073-99C4-8CB96A768B80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appWeb", "01 - FrontEnd\appWeb\appWeb.csproj", "{53CCC9E7-4C07-4FEE-BAAC-81CA57232613}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "appWeb", "01 - FrontEnd\appWeb\appWeb.csproj", "{53CCC9E7-4C07-4FEE-BAAC-81CA57232613}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Application", "01 - Application", "{5358E2B3-B6C0-4F20-BCF2-2B366DE7EF90}"
 EndProject
@@ -17,19 +17,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - InfraStructure", "03 -
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Tests", "04 - Tests", "{14998844-9D70-48D2-811B-50F29FD12A57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webApi", "02 - BackEnd\webApi\webApi.csproj", "{E8D809AA-932F-441C-B024-B66F6A6B298C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webApi", "02 - BackEnd\webApi\webApi.csproj", "{E8D809AA-932F-441C-B024-B66F6A6B298C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMotors.Domain", "02 - BackEnd\WebMotors.Domain\WebMotors.Domain.csproj", "{42AE9297-283D-4CDD-AFD8-0946B9AC4F81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebMotors.Domain", "02 - BackEnd\WebMotors.Domain\WebMotors.Domain.csproj", "{42AE9297-283D-4CDD-AFD8-0946B9AC4F81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMotors.Domain.Core", "02 - BackEnd\WebMotors.Domain.Core\WebMotors.Domain.Core.csproj", "{7C55D20F-3176-47BA-8FAA-FBEFAE0A93CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebMotors.Domain.Core", "02 - BackEnd\WebMotors.Domain.Core\WebMotors.Domain.Core.csproj", "{7C55D20F-3176-47BA-8FAA-FBEFAE0A93CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMotors.Domain.Services", "02 - BackEnd\WebMotors.Domain.Services\WebMotors.Domain.Services.csproj", "{18F61B52-D713-4D62-A46B-51B747549751}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebMotors.Domain.Services", "02 - BackEnd\WebMotors.Domain.Services\WebMotors.Domain.Services.csproj", "{18F61B52-D713-4D62-A46B-51B747549751}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMotors.InfraStructure.Ioc", "02 - BackEnd\WebMotors.InfraStructure.Ioc\WebMotors.InfraStructure.Ioc.csproj", "{FDB3AC45-D2FB-4D22-B2D2-A03372BCA9C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebMotors.InfraStructure.Ioc", "02 - BackEnd\WebMotors.InfraStructure.Ioc\WebMotors.InfraStructure.Ioc.csproj", "{FDB3AC45-D2FB-4D22-B2D2-A03372BCA9C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMotors.InfraStructure.Data", "02 - BackEnd\WebMotors.InfraStructure.Data\WebMotors.InfraStructure.Data.csproj", "{5980E4F4-D22C-40A7-8768-2E77413B9011}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebMotors.InfraStructure.Data", "02 - BackEnd\WebMotors.InfraStructure.Data\WebMotors.InfraStructure.Data.csproj", "{5980E4F4-D22C-40A7-8768-2E77413B9011}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMotors.Tests", "02 - BackEnd\WebMotors.Tests\WebMotors.Tests.csproj", "{7FAEEEC5-E603-4D00-95CF-7B827069954D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebMotors.Tests", "02 - BackEnd\WebMotors.Tests\WebMotors.Tests.csproj", "{7FAEEEC5-E603-4D00-95CF-7B827069954D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMotors.InfraStructure.AntiCorruption", "02 - BackEnd\WebMotors.InfraStructure.AntiCorruption\WebMotors.InfraStructure.AntiCorruption.csproj", "{CF2EAB04-F770-4E23-A55C-A6B807EABA99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{7FAEEEC5-E603-4D00-95CF-7B827069954D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FAEEEC5-E603-4D00-95CF-7B827069954D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FAEEEC5-E603-4D00-95CF-7B827069954D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2EAB04-F770-4E23-A55C-A6B807EABA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2EAB04-F770-4E23-A55C-A6B807EABA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2EAB04-F770-4E23-A55C-A6B807EABA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2EAB04-F770-4E23-A55C-A6B807EABA99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -86,6 +92,7 @@ Global
 		{FDB3AC45-D2FB-4D22-B2D2-A03372BCA9C7} = {36F31A35-FEF4-4FAE-BA46-471FD99E2F7D}
 		{5980E4F4-D22C-40A7-8768-2E77413B9011} = {36F31A35-FEF4-4FAE-BA46-471FD99E2F7D}
 		{7FAEEEC5-E603-4D00-95CF-7B827069954D} = {14998844-9D70-48D2-811B-50F29FD12A57}
+		{CF2EAB04-F770-4E23-A55C-A6B807EABA99} = {36F31A35-FEF4-4FAE-BA46-471FD99E2F7D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {04DF636B-3CB9-43DB-B4A6-BB6C3CD8306F}
