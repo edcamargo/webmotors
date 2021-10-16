@@ -1,4 +1,5 @@
-﻿using WebMotors.Domain.Core.Interfaces.Repositories;
+﻿using Microsoft.EntityFrameworkCore;
+using WebMotors.Domain.Core.Interfaces.Repositories;
 using WebMotors.InfraStructure.Data.Context;
 
 namespace WebMotors.InfraStructure.Data.Repositories

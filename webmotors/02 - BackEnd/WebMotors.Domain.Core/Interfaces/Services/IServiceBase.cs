@@ -1,4 +1,6 @@
-﻿namespace WebMotors.Domain.Core.Interfaces.Services
+﻿using System.Collections.Generic;
+
+namespace WebMotors.Domain.Core.Interfaces.Services
 {
     public interface IServiceBase<TEntity> where TEntity : class
     {

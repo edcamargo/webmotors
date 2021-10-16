@@ -1,7 +1,8 @@
 ﻿namespace WebMotors.Domain.Entities
 {
-    public class AnnouncementWebmotors : Entity
+    public class AnnouncementWebmotors
     {
+        /*
         public AnnouncementWebmotors(int id, 
                                      string marca, 
                                      string modelo, 
@@ -18,13 +19,14 @@
             Quilometragem = quilometragem;
             Observacao = observacao;
         }
+        */
 
-        public new int Id { get; private set; }
-        public string Marca { get; private set; }
-        public string Modelo {  get; private set; }
-        public string Versao {  get; private set; }
-        public int Ano { get; private set; }
-        public int Quilometragem { get; private set; }
-        public string Observacao { get; private set; }
+        public new int Id { get; set; }
+        public string? Marca { get; set; }
+        public string? Modelo {  get; set; }
+        public string? Versao {  get; set; }
+        public int Ano { get; set; }
+        public int Quilometragem { get; set; }
+        public string? Observacao { get; set; }
     }
 }

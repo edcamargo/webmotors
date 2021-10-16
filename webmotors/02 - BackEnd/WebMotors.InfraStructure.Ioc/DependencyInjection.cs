@@ -8,11 +8,11 @@ namespace WebMotors.InfraStructure.Ioc
 {
     public static class DependencyInjection
     {
-        public static void DependencyInjectionServices(ref IServiceCollection services)
+        public static void DependencyInjectionServices(this IServiceCollection services)
         {
             services.AddScoped<IAnnouncementWebMotorsService, AnnouncementWebMotorsService>();
         }
-        public static void DependencyInjectionRepositories(ref IServiceCollection services)
+        public static void DependencyInjectionRepositories(this IServiceCollection services)
         {
             services.AddScoped<IAnnouncementWebMotorsRepository, AnnouncementWebMotorsRepository>();
         }
