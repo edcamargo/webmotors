@@ -1,6 +1,6 @@
 ﻿namespace WebMotors.Domain.Entities
 {
-    public class AnnouncementWebmotors
+    public class AnnouncementWebMotors
     {
         /*
         public AnnouncementWebmotors(int id, 

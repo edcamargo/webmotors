@@ -2,6 +2,6 @@
 
 namespace WebMotors.Domain.Core.Interfaces.Repositories
 {
-    public interface IAnnouncementWebMotorsRepository : IRepositoryBase<AnnouncementWebmotors>
+    public interface IAnnouncementWebMotorsRepository : IRepositoryBase<AnnouncementWebMotors>
     { }
 }

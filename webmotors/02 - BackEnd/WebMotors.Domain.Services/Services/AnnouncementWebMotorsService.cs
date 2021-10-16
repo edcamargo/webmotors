@@ -4,7 +4,7 @@ using WebMotors.Domain.Entities;
 
 namespace WebMotors.Domain.Services.Services
 {
-    public class AnnouncementWebMotorsService : ServiceBase<AnnouncementWebmotors>, IAnnouncementWebMotorsService
+    public class AnnouncementWebMotorsService : ServiceBase<AnnouncementWebMotors>, IAnnouncementWebMotorsService
     {
         public readonly IAnnouncementWebMotorsRepository _announcementWebmotorsRepository;
 

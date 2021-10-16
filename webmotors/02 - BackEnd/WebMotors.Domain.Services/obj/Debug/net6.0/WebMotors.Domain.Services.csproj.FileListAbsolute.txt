@@ -7,6 +7,7 @@ C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain.Services\bin\Debug
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain.Services\bin\Debug\net6.0\WebMotors.Domain.Core.pdb
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain.Services\bin\Debug\net6.0\WebMotors.Domain.pdb
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.GlobalUsings.g.cs
+C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.csproj.AssemblyReference.cache
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.AssemblyInfoInputs.cache
 C:\Projetos\webmotors\webmotors\02 - BackEnd\WebMotors.Domain.Services\obj\Debug\net6.0\WebMotors.Domain.Services.AssemblyInfo.cs

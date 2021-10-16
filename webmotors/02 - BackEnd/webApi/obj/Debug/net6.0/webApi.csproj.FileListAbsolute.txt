@@ -1,3 +1,4 @@
+C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\bin\Debug\net6.0\appsettings.Development.json
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\bin\Debug\net6.0\appsettings.json
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\bin\Debug\net6.0\webApi.exe
@@ -32,7 +33,6 @@ C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\bin\Debug\net6.0\Newtonsoft.
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\bin\Debug\net6.0\RestSharp.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
@@ -83,4 +83,3 @@ C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\ref\webApi.dll
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.pdb
 C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.genruntimeconfig.cache
-C:\Projetos\webmotors\webmotors\02 - BackEnd\webApi\obj\Debug\net6.0\webApi.csproj.CopyComplete

@@ -14,7 +14,6 @@ namespace webApi.Controllers
     {
         private readonly IAnnouncementWebMotorsService _announcementWebMotorsService;
         private readonly ILogger<AnnouncementController> _logger;
-
         public AnnouncementController(IAnnouncementWebMotorsService announcementWebMotorsService, ILogger<AnnouncementController> logger)
         {
             _announcementWebMotorsService = announcementWebMotorsService;
@@ -66,7 +65,7 @@ namespace webApi.Controllers
         }
 
         [HttpPost]
-        public IActionResult Post([FromBody] AnnouncementWebmotors announcementWebmotors)
+        public IActionResult Post([FromBody] AnnouncementWebMotors announcementWebmotors)
         {
             try
             {
@@ -92,7 +91,7 @@ namespace webApi.Controllers
         }
         
         [HttpPut("{id}")]
-        public IActionResult Put(int id, [FromBody] AnnouncementWebmotors announcementWebmotors)
+        public IActionResult Put(int id, [FromBody] AnnouncementWebMotors announcementWebmotors)
         {
             try
             {

@@ -11,7 +11,7 @@ namespace WebMotors.InfraStructure.Data.Context
 
         #region DbSet
 
-        public DbSet<AnnouncementWebmotors> AnnouncementWebmotors { get; set; }
+        public DbSet<AnnouncementWebMotors> AnnouncementWebMotors { get; set; }
 
         #endregion DbSet
 

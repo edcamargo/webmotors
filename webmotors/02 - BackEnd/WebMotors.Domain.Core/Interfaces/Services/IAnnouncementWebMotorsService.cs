@@ -2,6 +2,6 @@
 
 namespace WebMotors.Domain.Core.Interfaces.Services
 {
-    public interface IAnnouncementWebMotorsService : IServiceBase<AnnouncementWebmotors>
+    public interface IAnnouncementWebMotorsService : IServiceBase<AnnouncementWebMotors>
     { }
 }

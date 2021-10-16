@@ -4,7 +4,7 @@ using WebMotors.InfraStructure.Data.Context;
 
 namespace WebMotors.InfraStructure.Data.Repositories
 {
-    public class AnnouncementWebMotorsRepository : RepositoryBase<AnnouncementWebmotors>, IAnnouncementWebMotorsRepository
+    public class AnnouncementWebMotorsRepository : RepositoryBase<AnnouncementWebMotors>, IAnnouncementWebMotorsRepository
     {
         public AnnouncementWebMotorsRepository(DataContext dataContext) : base(dataContext)
         { }
