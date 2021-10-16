@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "WebMotors.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WebMotors.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebMotors.Domain.dll": {}
+        }
+      },
+      "WebMotors.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "WebMotors.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WebMotors.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebMotors.Domain.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "WebMotors.Domain/1.0.0": {
+      "type": "project",
+      "path": "../WebMotors.Domain/WebMotors.Domain.csproj",
+      "msbuildProject": "../WebMotors.Domain/WebMotors.Domain.csproj"
+    },
+    "WebMotors.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../WebMotors.Domain.Core/WebMotors.Domain.Core.csproj",
+      "msbuildProject": "../WebMotors.Domain.Core/WebMotors.Domain.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "WebMotors.Domain >= 1.0.0",
+      "WebMotors.Domain.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Edwin\\.nuget\\packages\\": {},
@@ -38,7 +76,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projetos\\webmotors\\webmotors\\02 - BackEnd\\WebMotors.Domain.Core\\WebMotors.Domain.Core.csproj": {
+              "projectPath": "C:\\Projetos\\webmotors\\webmotors\\02 - BackEnd\\WebMotors.Domain.Core\\WebMotors.Domain.Core.csproj"
+            },
+            "C:\\Projetos\\webmotors\\webmotors\\02 - BackEnd\\WebMotors.Domain\\WebMotors.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\webmotors\\webmotors\\02 - BackEnd\\WebMotors.Domain\\WebMotors.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -65,7 +110,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21463.6\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
       }
     }
   }

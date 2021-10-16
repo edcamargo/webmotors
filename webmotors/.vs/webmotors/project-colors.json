@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42ae9297-283d-4cdd-afd8-0946b9ac4f81": {
+      "ProjectGuid": "42ae9297-283d-4cdd-afd8-0946b9ac4f81",
+      "DisplayName": "WebMotors.Domain",
+      "ColorIndex": 0
+    },
+    "7c55d20f-3176-47ba-8faa-fbefae0a93cd": {
+      "ProjectGuid": "7c55d20f-3176-47ba-8faa-fbefae0a93cd",
+      "DisplayName": "WebMotors.Domain.Core",
+      "ColorIndex": 1
+    },
+    "18f61b52-d713-4d62-a46b-51b747549751": {
+      "ProjectGuid": "18f61b52-d713-4d62-a46b-51b747549751",
+      "DisplayName": "WebMotors.Domain.Services",
+      "ColorIndex": 2
+    },
+    "fdb3ac45-d2fb-4d22-b2d2-a03372bca9c7": {
+      "ProjectGuid": "fdb3ac45-d2fb-4d22-b2d2-a03372bca9c7",
+      "DisplayName": "WebMotors.InfraStructure.Ioc",
+      "ColorIndex": 3
+    },
+    "5980e4f4-d22c-40a7-8768-2e77413b9011": {
+      "ProjectGuid": "5980e4f4-d22c-40a7-8768-2e77413b9011",
+      "DisplayName": "WebMotors.InfraStructure.Data",
+      "ColorIndex": 4
+    },
+    "7faeeec5-e603-4d00-95cf-7b827069954d": {
+      "ProjectGuid": "7faeeec5-e603-4d00-95cf-7b827069954d",
+      "DisplayName": "WebMotors.Tests",
+      "ColorIndex": 5
+    },
+    "53ccc9e7-4c07-4fee-baac-81ca57232613": {
+      "ProjectGuid": "53ccc9e7-4c07-4fee-baac-81ca57232613",
+      "DisplayName": "appWeb",
+      "ColorIndex": 6
+    },
+    "e8d809aa-932f-441c-b024-b66f6a6b298c": {
+      "ProjectGuid": "e8d809aa-932f-441c-b024-b66f6a6b298c",
+      "DisplayName": "webApi",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
